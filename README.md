@@ -25,3 +25,6 @@ For the prediction of the model I created a [notebook](https://github.com/yepedr
   * Model and tokenizer file uploading
   * Use of tokenizer for the input sentences for which we should make the predictions on
   * Make predictions on the input sentence by using the saved model
+
+---
+*Made by @yepedraza* 
