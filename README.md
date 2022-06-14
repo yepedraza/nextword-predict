@@ -17,7 +17,7 @@ The model architecture is the following:
   * A fully connected layer and,
   * An output layer
 
-The model has 15,7M training parameters aprox and you can download it [here](https://drive.google.com/file/d/1JX7TPaFdbUDP95Jwxpf5MbWUIis97Oj3/view?usp=sharing)
+The model has 15,7M training parameters aprox and you can download it [here](https://drive.google.com/file/d/1hPjFniCR8w5yUMrN1-oRjmRPusC7yJfD/view?usp=sharing)
 
 ## Testing the model
 
